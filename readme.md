@@ -1,0 +1,1 @@
+This is an odin-recipes project, where I try to learn web delevoplment again.
