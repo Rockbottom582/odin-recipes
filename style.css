@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    display: block;
+}
+
+.home {
+    text-align: center;
+    display: block;
+}
+
+ul {
+    margin: auto 200px auto 600px;
+}
+
+ol {
+    margin: auto 200px 50px 200px;
+}
+
+ol.steps{
+    margin: auto 200px 50px 500px;
+}
+
+ol.steps-tomato{
+    margin: auto 200px 50px 400px;
+}
+
+.description {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
